@@ -1,0 +1,6 @@
+store_id,store_name,location,region
+1,Store_1,Kochi,South
+2,Store_2,Chennai,South
+3,Store_3,Chennai,West
+4,Store_4,Bengaluru,East
+5,Store_5,Mumbai,East
